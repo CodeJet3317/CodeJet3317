@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeJet3317
+- 👋 Hi, I’m @Harsh Patel
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
