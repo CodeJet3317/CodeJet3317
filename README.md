@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Harsh Patel
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
+- 👨‍💻 I'm currently doing BE in Artificial         intelligence and machine learning 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me by email
 
